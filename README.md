@@ -13,7 +13,7 @@ Boilerplate for Codeigniter
     |        ├── /js                    # public Javascript directory
     |        └── index.php              # Codeigniter index.php file
     |
-    └── AnotherWebsite.com            # Anothe websites directory showing how multiple websites can share codeigniters system files
+    └── /AnotherWebsite.com             # Anothe websites directory showing how multiple websites can share codeigniters system files
     
 I seperate the Codeigniter system folder from the application so that I can have multipl websites using the same codeigniter system files.
 
