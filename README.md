@@ -2,13 +2,9 @@
 Boilerplate for Codeigniter
 
 
-Directory File Structure
 
-  .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
+    .Server Web Root (/var/www/html/)
+    ├── CodeIgniter                   # Code Igniter sytem Root directory 
+    ├── Example.com                   # Website directory keep multiple virtual websites organized
+    |   ├── Application               # Codeigniters Application Folder
+    |   └── WWW                       # Your websites Root directory
