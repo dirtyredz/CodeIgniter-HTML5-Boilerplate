@@ -4,15 +4,11 @@ Boilerplate for Codeigniter
 
 Directory File Structure
 
-Web Root directory (/var/www/html)
-    |
-    |
-    |
-    |--> CodeIgniter Directory (/Codeigniter)
-    |
-    |--> Your Website Root Directory  (/Example.com)
-            |
-            |
-            |--> Application
-            |
-            |--> WWW
+  .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
