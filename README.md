@@ -13,8 +13,8 @@ Boilerplate for Codeigniter
     |       ├── js                    # public Javascript directory
     |       └── index.php             # Codeigniter index.php file
     |
-    └── AnotherWebsite.com                   # Website directory keep multiple virtual websites organized
-
+    └── AnotherWebsite.com            # Anothe websites directory showing how multiple websites can share codeigniters system files
+    
 I seperate the Codeigniter system folder from the application so that I can have multipl websites using the same codeigniter system files.
 
 Having the application folder outside of the Websites root directory is by design for security reasons.
