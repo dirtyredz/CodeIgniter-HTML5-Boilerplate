@@ -1,5 +1,6 @@
 # CodeIgniter-HTML5-Boilerplate
-Boilerplate for Codeigniter
+A boilerplate designed to be used with codeigniter, adapting many features from HTML5-Boilerplate.
+
 
 
 
